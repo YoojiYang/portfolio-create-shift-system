@@ -1,0 +1,9 @@
+# vdcode
+.vscode
+
+# models
+spreadsheet_key.json
+spreadsheet_manager.py
+
+# __pycache__
+__pycache__
