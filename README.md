@@ -9,9 +9,10 @@
 柔軟性: 突発的な変更や休暇のリクエストにも迅速に対応可能です。
 
 ## 技術スタック
-|----|----|
-|アサインアルゴリズム|Python|
-|フロントエンド|HTML, CSS, JavaScript, BootStrap|
-|spreadsheet操作|GoogleAppScript|
-|データベース|Googlespreadsheet|
-|実行環境|Flask, PythonAnywhere|
+| 項目 | 利用言語･フレームワーク |
+| ---- | ---- |
+| アサインアルゴリズム | Python |
+| フロントエンド | HTML, CSS, JavaScript, BootStrap |
+| spreadsheet操作 | GoogleAppScript |
+| データベース | Googlespreadsheet |
+| 実行環境 | Flask, PythonAnywhere |
