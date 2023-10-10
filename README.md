@@ -45,8 +45,7 @@ STEP5: 従業員の割り当てを実行。（③実行ページ）
 | フロントエンド | HTML, CSS, JavaScript, BootStrap |
 | spreadsheet操作 | GoogleAppScript |
 | データベース | Googlespreadsheet |
-| 実行環境 | Flask, PythonAnywhere |
-  
+| 実行環境 | Flask, PythonAnywhere |  
   
   
   
