@@ -50,4 +50,4 @@ STEP5: 従業員の割り当てを実行。（③実行ページ）
   
   
 ## デモ
-[こちら](https://docs.google.com/spreadsheets/d/1-2b6lYNqAkUJvuMUj0tLKmZiJ_YqCmy9LzTC610pilk/edit#gid=1089588557){:target="_blank"}からデモサイトにアクセスできます。
+[こちら](https://docs.google.com/spreadsheets/d/1-2b6lYNqAkUJvuMUj0tLKmZiJ_YqCmy9LzTC610pilk/edit#gid=1089588557)からデモサイトにアクセスできます。
